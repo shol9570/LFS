@@ -1,0 +1,1 @@
+BIG_FILE.obj filter=lfs diff=lfs merge=lfs -text
